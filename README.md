@@ -15,10 +15,10 @@ Tive participação em desenvolvimentos de diagramas de softwares e aprendizado 
 
 **`Cursos`**
 
-Curso Online de PHP - PHP da Rocketseat
+Curso Online de PHP - PHP da Rocketseat <br>
 07/10/2024 e 11/10/2024
 <br>
-Imersão Front-end
+Imersão Front-end <br>
 27/01/2025 e 03/02/2025
 
 <div>

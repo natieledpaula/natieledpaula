@@ -70,3 +70,9 @@ alt="GitHub Stats"
 height="150" 
 style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=natieledpaula&layout=compact&langs_count=16&theme=dracula"/>
+
+###
+
+<img src="https://raw.githubusercontent.com/natieledpaula/natieledpaula/output/snake.svg" alt="Snake animation" />
+
+###

@@ -20,6 +20,9 @@ Curso Online de PHP - PHP da Rocketseat <br>
 <br>
 Imersão Front-end <br>
 27/01/2025 e 03/02/2025
+<br>
+Crie um site simples usando HTML, CSS e JAVASCRIPT <br>
+27/01/2025 a 06/02/2025
 
 <div>
 <a href = "mailto:natiele887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -52,6 +55,14 @@ Imersão Front-end <br>
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/> 
 
 <br/>
 <br/>

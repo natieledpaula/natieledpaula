@@ -14,6 +14,7 @@ Atualmente estou iniciando o 3° Semestre, com disciplinas de desenvolvimento fr
 Tive participação em desenvolvimentos de diagramas de softwares e aprendizado em lógica de programação em C. 
 
 **`Cursos`**
+
 NLW Connect - Fullstack  da Rocketseat <br>
 17/02/2025 a 23/02/2025 <br>
 Imersão Front-end 2° Edição <br>

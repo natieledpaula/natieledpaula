@@ -14,15 +14,16 @@ Atualmente estou iniciando o 3° Semestre, com disciplinas de desenvolvimento fr
 Tive participação em desenvolvimentos de diagramas de softwares e aprendizado em lógica de programação em C. 
 
 **`Cursos`**
-
-Curso Online de PHP - PHP da Rocketseat <br>
-07/10/2024 e 11/10/2024
-<br>
-Imersão Front-end <br>
-27/01/2025 e 03/02/2025
-<br>
+NLW Connect - Fullstack  da Rocketseat <br>
+17/02/2025 a 23/02/2025 <br>
+Imersão Front-end 2° Edição <br>
+27/01/2025 e 03/02/2025 <br>
 Crie um site simples usando HTML, CSS e JAVASCRIPT <br>
-27/01/2025 a 06/02/2025
+27/01/2025 a 06/02/2025 <br>
+Desafio do Webdesign 2025 <br>
+10/02/2025 a 17/02/2025 <br>
+Microsoft Word 2016 - Básico <br>
+27/01/2025 a 23/02/2025
 
 <div>
 <a href = "mailto:natiele887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

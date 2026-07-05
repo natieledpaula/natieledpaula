@@ -13,18 +13,7 @@ Meu objetivo é estagiar na área de programação e analítica, desenvolver min
 Atualmente estou iniciando o 3° Semestre, com disciplinas de desenvolvimento front-end e orientação a objetos.
 Tive participação em desenvolvimentos de diagramas de softwares e aprendizado em lógica de programação em C. 
 
-**`Cursos`**
-
-NLW Connect - Fullstack  da Rocketseat <br>
-17/02/2025 a 23/02/2025 <br>
-Imersão Front-end 2° Edição <br>
-27/01/2025 e 03/02/2025 <br>
-Crie um site simples usando HTML, CSS e JAVASCRIPT <br>
-27/01/2025 a 06/02/2025 <br>
-Desafio do Webdesign 2025 <br>
-10/02/2025 a 17/02/2025 <br>
-Microsoft Word 2016 - Básico <br>
-27/01/2025 a 23/02/2025
+---
 
 <div>
 <a href = "mailto:natiele887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

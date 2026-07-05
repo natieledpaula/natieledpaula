@@ -13,8 +13,6 @@ Meu objetivo é estagiar na área de programação e analítica, desenvolver min
 Atualmente estou iniciando o 3° Semestre, com disciplinas de desenvolvimento front-end e orientação a objetos.
 Tive participação em desenvolvimentos de diagramas de softwares e aprendizado em lógica de programação em C. 
 
----
-
 <div>
 <a href = "mailto:natiele887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/natiele-nogueira-de-paula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
